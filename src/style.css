@@ -125,3 +125,10 @@ main {
 .search {
     display: flex;
 }
+
+footer {
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    right: 254px;
+}
